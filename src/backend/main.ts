@@ -296,7 +296,7 @@ if (!gotTheLock) {
           e
         ])
       })
-      logInfo(['DRM module staus', components.status()])
+      logInfo(['DRM module status', components.status()])
     }
 
     // try to fix notification app name on windows
